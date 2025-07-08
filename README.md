@@ -16,17 +16,19 @@ Download `true.csv` and `fake.csv` as instructed in the `final_project.pdf`.
 2. Run **all cells one by one** (ensure you’re in Google Colab or a GPU-enabled environment).
 3. The final cell will generate and download a file named : fake_news_model.zip
 
-## Project Structure
+##  Project Structure
 
 Your project folder should now look like:
-your_project_directory/
-├── fake_news_chatbot.py
-├── requirements.txt
-└── fake_news_model/
-    ├── config.json
-    ├── pytorch_model.bin
-    ├── tokenizer_config.json
-    ├── vocab.txt
+
+    Fake_News_Model
+    ├── fake_news_chatbot.py
+    ├── requirements.txt
+    └── fake_news_model
+        ├── config.json
+        ├── pytorch_model.bin
+        ├── tokenizer_config.json
+        ├── vocab.txt
+
 
 Make sure your requirements.txt includes:
 
