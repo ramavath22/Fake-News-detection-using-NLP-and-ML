@@ -49,5 +49,5 @@ streamlit run fake_news_chatbot.py
 ```
 ### Access the chatbot:
 ```bash
-open: http://localhost:8501
+http://localhost:8501
 ```
