@@ -1,4 +1,4 @@
-# 📰 Fake News Detection Chatbot (Transformer-based)
+# Fake News Detection Chatbot (Transformer-based)
 
 This project implements a Transformer-based chatbot that classifies whether a news article is **fake or real** using BERT. It combines fine-tuning, prediction, and an interactive Streamlit interface.
 
